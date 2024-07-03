@@ -65,11 +65,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 3. Use os prompts de artes no `midjourney`
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+    <a
         href="https://github.com/EzequielMbastos">
         GitHub
     </a>
@@ -78,9 +74,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         href="https://www.linkedin.com/in/ezequiel-bastos-04908722a/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
-    
-    &nbsp;|&nbsp;</p>
+   
 </p>
 <br/><br/>
 <p>
